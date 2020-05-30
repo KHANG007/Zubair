@@ -55,9 +55,10 @@ logo = """
 \033[0;39m┃╰━╯┃╰━╯┃╰━╯┃
 \033[0;39m╰━━━┻━━━┻━━━╯
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
-\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|Muhammad
-Zubair\033[0;31m║
+\033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKR•|
+            Zubair\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/zubair\033[0m \033[0;31m║
+
 
 \033[0;34m╚▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╝"""
 
@@ -80,7 +81,7 @@ os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
 print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : Not Available\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m
-\033[1;93m [¤] \x1b[0;31mTOOLS BY ZUBI\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : NOT AVAILABLE \x1b[0;31m"""
+\033[1;93m [¤] \x1b[0;31mTOOLS BY ZUBI\x1b[1;96m  [¤] \x1b[0;31mFacebook  : https://www.facebook.com/Mr.zaibi007\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
 CorrectUsername = "zubi"
